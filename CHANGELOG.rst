@@ -1,6 +1,11 @@
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 Changelog for package slider_publisher
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2.3.1 (2023-12-16)
+------------------
+* typo in readme
+* Contributors: Olivier Kermorgant
+
 2.3.0 (2023-12-16)
 ------------------
 * text input
